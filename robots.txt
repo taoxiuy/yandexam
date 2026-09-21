@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taoxiuy.github.io/yandexam/sitemap.xml
